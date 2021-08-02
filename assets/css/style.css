@@ -358,6 +358,24 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+#exp {
+  margin-top: 5%;
+}
+
+#cvheader{
+  font-size: small;
+}
+
+#txtdecore{
+  text-decoration: none;
+  float: right;
+  padding: 3%;
+}
+
+#download{
+  width: 4vh;
+}
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
@@ -444,6 +462,87 @@ section {
 /*--------------------------------------------------------------
 # Interest
 --------------------------------------------------------------*/
+#interest2 {
+  margin-top: 5%;
+}
+
+#card1{
+  padding: 0%;
+  border-radius: 2%;
+}
+#photo{
+  height: 30vh;
+  width: 30vh;
+  /* background: url("../img/photo1.jpg") top center; */
+  background-size: cover;
+  border: none;  
+}
+
+
+#card2{
+  padding: 0%;
+  border-radius: 2%;
+}
+#travel{
+  height: 30vh;
+  width: 30vh;
+  /* background: url("../img/travel1.jpg") top center; */
+  background-size: cover;
+  border: none;
+}
+
+
+#card3{
+  padding: 0%;
+  border-radius: 2%;
+}
+#paint{
+  height: 30vh;
+  width: 30vh;
+  /* background: url("../img/paint1.jpeg") top center; */
+  background-size: cover;
+  border: none;
+}
+
+
+#card4{
+  padding: 0%;
+  border-radius: 2%;
+}
+#write{
+  height: 30vh;
+  width: 30vh;
+  /* background: url("../img/hero-bg1.jpg") top center; */
+  background-size: cover;
+  border: none;
+}
+
+
+#card5{
+  padding: 0%;
+  border-radius: 2%;
+}
+#cook{
+  height: 30vh;
+  width: 30vh;
+  /* background: url("../img/hero-bg1.jpg") top center; */
+  background-size: cover;
+  border: none;
+}
+
+
+#card6{
+  padding: 0%;
+  border-radius: 2%;
+}
+#music{
+  height: 30vh;
+  width: 30vh;
+  /* background: url("../img/music1.jpg") top center; */
+  background-size: cover;
+  border: none;
+}
+
 .interest {
   padding-bottom: 130px;
 }
